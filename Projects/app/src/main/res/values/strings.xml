@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello">Hello</string>
+    <string name="password_hint">Write password</string>
+    <string name="CNIC_hint">xxxxx-xxxxxxx-x</string>
+    <string name="login_line">Login first to continue</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="text_login">login</string>
+    <string name="dont_have_an_account">Dont have an account?</string>
+    <string name="sign_up_string">Sign up</string>
+    <string name="cnic_label">CNIC</string>
+</resources>
